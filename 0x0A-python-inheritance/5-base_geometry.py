@@ -1,8 +1,8 @@
-se_geometry.py
-# Brennan D Baraban <375@holbertonschool.com>
-"""Defines an empty class BaseGeometry."""
+#!/usr/bin/python3
+""" Module base geometry
+"""
 
 
 class BaseGeometry:
-    """Represent base geometry."""
+    """ empty class"""
     pass
